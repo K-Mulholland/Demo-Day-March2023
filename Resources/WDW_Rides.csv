@@ -1,0 +1,47 @@
+﻿Ride_name,Park_location,Park_area,Ride_type_all,Ride_type_thrill,Ride_type_spinning,Ride_type_slow,Ride_type_small_drops,Ride_type_big_drops,Ride_type_dark,Ride_type_scary,Ride_type_water,Fast_pass,Classic,Age_interest_all,Age_interest_preschoolers,Age_interest_kids,Age_interest_tweens,Age_interest_teens,Age_interest_adults,Height_req_inches,Ride_duration_min,Open_date,Age_of_ride_days,Age_of_ride_years,Age_of_ride_total,TL_rank,TA_Stars
+Alien Swirling Saucers,HS,Toy Story Land,spinning,No,Yes,No,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,32,1.50,6/30/18,"1,721.00",4.71,4 years 8 months 16 days,31,NA
+Astro Orbiter,MK,Tomorrowland,"spinning, slow",No,Yes,Yes,No,No,No,No,No,No,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,1.50,2/25/95,"10,247.00",28.05,28 years 0 months 20 days,43,3.50
+Avatar Flight of Passage,AK,Pandora,thrill,Yes,No,No,No,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,44,5,5/27/17,"2,120.00",5.80,5 years 9 months 20 days,9,5
+Big Thunder Mountain Railroad,MK,Frontierland,"thirll, small drops",Yes,No,No,Yes,No,No,No,No,Yes,Yes,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,3.50,9/23/80,"15,515.00",42.48,42 years 5 months 23 days,8,4.50
+Buzz Lightyear's Space Ranger Spin,MK,Tomorrowland,"spinning, slow",No,Yes,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,4,10/7/98,"8,927.00",24.44,24 years 5 months 9 days,32,4.50
+Dinosaur,AK,Dinoland USA,"thrill, small drops, dark, scary",Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,3.25,4/22/98,"9,095.00",24.90,24 years 10 months 24 days,24,4
+Dumbo the Flying Elephant,MK,Fantasyland,"spinning, slow",No,Yes,Yes,No,No,No,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,1.50,10/1/71,"18,795.00",51.46,51 years 5 months 16 days,29,4.50
+Expedition Everest,AK,Asia,"thrill, big drops, dark",Yes,No,No,No,Yes,Yes,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,44,2.75,4/7/06,"6,188.00",16.94,16 years 11 months 9 days,1,5
+Frozen Ever After,EC,World Showcase,"slow, small drops, dark",No,No,Yes,Yes,No,Yes,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,5,6/21/16,"2,460.00",6.74,6 years 8 months 25 days,27,4
+Gran Fiesta Tour Starring The Three Caballeros,EC,World Showcase,slow,No,No,Yes,No,No,No,No,No,No,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,8,4/2/07,"5,828.00",15.96,15 years 11 months 15 days,47,4
+Haunted Mansion,MK,Liberty Square,"slow, dark",No,No,Yes,No,No,Yes,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,7.50,10/1/71,"18,795.00",51.46,51 years 5 months 16 days,2,4.50
+It's a Small World,MK,Fantasyland,slow,No,No,Yes,No,No,No,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,10.50,10/1/71,"18,795.00",51.46,51 years 5 months 16 days,16,4
+Journey Into Imagination with Figment,EC,Future World,"slow, dark",No,No,Yes,No,No,Yes,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,11,6/1/02,"7,594.00",20.79,20 years 9 months 15 days,53,3
+Jungle Cruise,MK,Adventureland,slow,No,No,Yes,No,No,No,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,9,10/1/71,"18,795.00",51.46,51 years 5 months 16 days,19,4
+Kali River Rapids,AK,Asia,"thrill, water, small drops, spinning",Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,38,3.50,2/15/99,"8,796.00",24.08,24 years 0 months 30 days,21,4.50
+Kilimanjaro Safaris,AK,Africa,slow,No,No,Yes,No,No,No,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,18.50,4/22/98,"9,095.00",24.90,24 years 10 months 24 days,11,4.50
+Living with the Land,EC,Future World,slow,No,No,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,13.75,10/1/82,"14,777.00",40.46,40 years 5 months 15 days,42,4
+Mad Tea Party,MK,Fantasyland,spinning,No,Yes,No,No,No,No,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,1.50,10/1/71,"18,795.00",51.46,51 years 5 months 16 days,20,4
+Main Street Vehicles,MK,Main Street USA,slow,No,No,Yes,No,No,No,No,No,No,No,all ages,Yes,Yes,Yes,Yes,Yes,0,3,10/1/71,"18,795.00",51.46,51 years 5 months 16 days,NA,4.50
+Mission Space,EC,Future World,"thrill, spinning, dark",Yes,Yes,No,No,No,Yes,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,5.75,10/1/03,"7,107.00",19.46,19 years 5 months 16 days,33,3.50
+Na'vi River Journey,AK,Pandora,slow,No,No,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,5,5/27/17,"2,120.00",5.80,5 years 9 months 20 days,25,4
+Peter Pan's Flight,MK,Fantasyland,"slow, small drops",No,No,Yes,Yes,No,No,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,2.75,10/1/71,"18,795.00",51.46,51 years 5 months 16 days,18,4
+Pirates of the Caribbean,MK,Adventureland,"slow, small drops, dark",No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,8.50,12/17/73,"17,987.00",49.25,49 years 2 months 30 days,12,4.50
+Primeval Whirl,AK,Dinoland USA,"thrill, small drops, spinning",Yes,Yes,No,Yes,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,48,1.25,4/18/02,"7,638.00",20.91,20 years 10 months 28 days,41,4
+Prince Charming Regal Carrousel,MK,Fantasyland,"slow, spinning",No,Yes,Yes,No,No,No,No,No,No,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,2,10/1/71,"18,795.00",51.46,51 years 5 months 16 days,51,4.50
+Rock 'n' Roller Coaster,HS,Sunset Boulevard,"thrill, big drops",Yes,No,No,No,Yes,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,48,1.25,7/29/99,"8,632.00",23.63,23 years 7 months 19 days,13,5
+Seven Dwarfs Mine Train,MK,Fantasyland,"thrill, small drops",Yes,No,No,Yes,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,38,2.50,5/28/14,"3,215.00",8.80,8 years 9 months 19 days,10,4.50
+Slinky Dog Dash,HS,Toy Story Land,"thrill, small drops",Yes,No,No,Yes,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,38,2,6/30/18,"1,721.00",4.71,4 years 8 months 16 days,14,NA
+Soarin' Around the World,EC,Future World,"slow, small drops",No,No,Yes,Yes,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,5,5/5/05,"6,525.00",17.86,17 years 10 months 11 days,4,4.50
+Space Mountain,MK,Tomorrowland,"thrill, big drops, dark",Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,44,2.50,1/15/75,"17,593.00",48.17,48 years 2 months 1 days,5,4.50
+Spaceship Earth,EC,Future World,"slow, dark",No,No,Yes,No,No,Yes,No,No,No,No,all ages,Yes,Yes,Yes,Yes,Yes,0,15,10/1/82,"14,777.00",40.46,40 years 5 months 15 days,22,4.50
+Splash Mountain,MK,Frontierland,"thrill, water, big drops",Yes,No,No,No,Yes,No,No,Yes,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,11,7/17/92,"11,200.00",30.66,30 years 7 months 30 days,7,4.50
+Star Tours,HS,Echo Lake,small drops,No,No,No,Yes,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,5,12/15/89,"12,145.00",33.25,33 years 3 months 1 days,15,4.50
+Test Track,EC,Future World,"thrill, small drops",Yes,No,No,Yes,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,4,3/16/99,"8,767.00",24.00,24 years 0 months 1 days,23,4.50
+The Barnstormer,MK,Fantasyland,small drops,No,No,No,Yes,No,No,No,No,Yes,No,"preschoolers, kids",Yes,Yes,No,No,No,35,1,10/1/96,"9,663.00",26.46,26 years 5 months 15 days,36,3.50
+The Magic Carpets of Aladdin,MK,Adventureland,"slow, spinning",No,Yes,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,1.50,5/23/01,"7,968.00",21.82,21 years 9 months 24 days,44,4
+The Many Adventures of Winnie the Pooh,MK,Fantasyland,slow,No,No,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,3.25,6/5/99,"8,686.00",23.78,23 years 9 months 12 days,28,4
+The Twilight Zone Tower of Terror,HS,Sunset Boulevard,"thrill, big drops, dark, scary",Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,5,7/22/94,"10,465.00",28.65,28 years 7 months 25 days,3,5
+Tomorrowland Speedway,MK,Tomorrowland,slow,No,No,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,32,4.75,10/1/71,"18,795.00",51.46,51 years 5 months 16 days,38,3.50
+Tomorrowland Transit Authority PeopleMover,MK,Tomorrowland,slow,No,No,Yes,No,No,No,No,No,No,No,all ages,Yes,Yes,Yes,Yes,Yes,0,10,7/1/75,"17,426.00",47.71,47 years 8 months 16 days,30,4
+Toy Story Mania,HS,Toy Story Land,spinning,No,Yes,No,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,8,5/31/08,"5,403.00",14.79,14 years 9 months 16 days,6,4.50
+TriceraTop Spin,AK,Dinoland USA,"slow, spinning",No,Yes,Yes,No,No,No,No,No,No,No,all ages,Yes,Yes,Yes,Yes,Yes,0,1.50,3/31/02,"7,656.00",20.96,20 years 11 months 16 days,45,4
+Under the Sea,MK,Fantasyland,slow,No,No,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,6.25,12/6/12,"3,753.00",10.28,10 years 3 months 10 days,34,4.50
+Walt Disney World Railroad,MK,Main Street USA,slow,No,No,Yes,No,No,No,No,No,No,No,all ages,Yes,Yes,Yes,Yes,Yes,0,20,10/1/71,"18,795.00",51.46,51 years 5 months 16 days,48,4
+Walt Disney's Carousel of Progress,MK,Tomorrowland,slow,No,No,Yes,No,No,No,No,No,No,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,20.75,1/15/75,"17,593.00",48.17,48 years 2 months 1 days,52,4
+Wildlife Express Train,AK,Africa,slow,No,No,Yes,No,No,No,No,No,No,No,all ages,Yes,Yes,Yes,Yes,Yes,0,12,4/22/98,"9,095.00",24.90,24 years 10 months 24 days,NA,3.50
